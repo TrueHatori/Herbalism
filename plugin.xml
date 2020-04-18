@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Herbalism" lan="LAN_PLUGIN_HERBALISM_LINKNAME" version="1.1" date="2020-04-15" compatibility="2.0" installRequired="true" >
+	<author name="Hatori" url="http://www.ninja4ever.de" />
+	<summary lan="LAN_PLUGIN_HERBALISM_LINKNAME">Herbal collection</summary>
+	<description lan="LAN_PLUGIN_HERBALISM_DESC">Herbs for your health</description>
+	<keywords>
+		<word>generic</word>
+		<word>health</word>
+		<word>herbalism</word>
+		<word>collection</word>
+	</keywords>
+	<category>content</category>
+	<copyright>Hatori, Kuroi Fenikkusu Dojo</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="images/kk_32.png" iconSmall="images/kk_16.png" icon128="" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	
+</e107Plugin>
